@@ -23,6 +23,7 @@ document.querySelector<HTMLDivElement>("#app")!.innerHTML = `
 
 setupCounter(document.querySelector<HTMLButtonElement>("#counter")!);
 
+// Simple function for testing
 function sum(a: number, b: number) {
   return a + b;
 }
