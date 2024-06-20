@@ -6,4 +6,4 @@ Whene had hen
 
 ## Some erors here
 
-- Some weird errors since testing out VIM bindings
+- Some weird errors since testing out VIM bindings. Normail
